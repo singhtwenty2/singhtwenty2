@@ -5,17 +5,18 @@
 I'm a passionate Android Developer and Backend Enthusiast, currently pursuing my B.E. in Computer Science and Engineering at SaIT Bengaluru. Welcome to my GitHub profile!
 
 ## 🚀 Tech Stack:
-![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow?style=flat-square&logo=java)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Advanced-green?style=flat-square&logo=android)
-![RoomDB](https://img.shields.io/badge/RoomDB-Medium-blue?style=flat-square&logo=android)
-![SQLite](https://img.shields.io/badge/SQLite-Medium-blue?style=flat-square&logo=sqlite)
-![NoSQL](https://img.shields.io/badge/NoSQL-Medium-blue?style=flat-square&logo=mongodb)
-![Retrofit](https://img.shields.io/badge/Retrofit-Intermediate-yellow?style=flat-square&logo=android)
-![Volley](https://img.shields.io/badge/Volley-Intermediate-yellow?style=flat-square&logo=android)
-![Ktor](https://img.shields.io/badge/Ktor-Intermediate-yellow?style=flat-square&logo=kotlin)
-![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-Intermediate-yellow?style=flat-square&logo=android)
-![Flutter](https://img.shields.io/badge/Flutter-Exploring-lightgrey?style=flat-square&logo=flutter)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-Intermediate-yellow?style=flat-square&logo=java)](https://www.java.com/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Advanced-green?style=flat-square&logo=android)](https://developer.android.com/jetpack/compose)
+[![RoomDB](https://img.shields.io/badge/RoomDB-Medium-blue?style=flat-square&logo=android)](https://developer.android.com/training/data-storage/room)
+[![SQLite](https://img.shields.io/badge/SQLite-Medium-blue?style=flat-square&logo=sqlite)](https://www.sqlite.org/)
+[![NoSQL](https://img.shields.io/badge/NoSQL-Medium-blue?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![Retrofit](https://img.shields.io/badge/Retrofit-Intermediate-yellow?style=flat-square&logo=android)](https://square.github.io/retrofit/)
+[![Volley](https://img.shields.io/badge/Volley-Intermediate-yellow?style=flat-square&logo=android)](https://developer.android.com/training/volley)
+[![Ktor](https://img.shields.io/badge/Ktor-Intermediate-yellow?style=flat-square&logo=kotlin)](https://ktor.io/)
+[![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-Intermediate-yellow?style=flat-square&logo=android)](https://dagger.dev/hilt/)
+[![Flutter](https://img.shields.io/badge/Flutter-Exploring-lightgrey?style=flat-square&logo=flutter)](https://flutter.dev/)
+
 
 ## 📚 Learning Journey:
 - ![Data Structures](https://img.shields.io/badge/Data%20Structures-Diving%20In-blue?style=flat-square)
