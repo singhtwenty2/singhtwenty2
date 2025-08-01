@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://dtzlybkqtsymzveienks.supabase.co/storage/v1/object/public/portfolio-bucket//After_Hours_The_Weeknd.gif" alt="The Weeknd After Hours" />
 </div>
 
 <h2 align="center">🤝 Let's Connect</h2>
